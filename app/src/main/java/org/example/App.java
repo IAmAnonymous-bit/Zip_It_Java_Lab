@@ -31,6 +31,8 @@ public class App
 
         System.out.println(zipIt.zip(doubleList1, doubleList2));
 
+        //System.out.println(zipIt.zip(intList1, stringList1));
+
     }
     
 }
